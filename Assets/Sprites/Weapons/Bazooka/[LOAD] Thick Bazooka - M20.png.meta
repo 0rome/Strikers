@@ -1,0 +1,563 @@
+fileFormatVersion: 2
+guid: 8a28e1e16d0f82649a81195dc76df430
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5762428001861256825
+    second: '[LOAD] Thick Bazooka - M20_0'
+  - first:
+      213: 5541617284078950186
+    second: '[LOAD] Thick Bazooka - M20_1'
+  - first:
+      213: 5992999881621075299
+    second: '[LOAD] Thick Bazooka - M20_2'
+  - first:
+      213: -2761123930574526778
+    second: '[LOAD] Thick Bazooka - M20_3'
+  - first:
+      213: -6520692148529982508
+    second: '[LOAD] Thick Bazooka - M20_4'
+  - first:
+      213: -6493566415400094397
+    second: '[LOAD] Thick Bazooka - M20_5'
+  - first:
+      213: -2928475269485739149
+    second: '[LOAD] Thick Bazooka - M20_6'
+  - first:
+      213: 7321906392829453173
+    second: '[LOAD] Thick Bazooka - M20_7'
+  - first:
+      213: 2340496631733211750
+    second: '[LOAD] Thick Bazooka - M20_8'
+  - first:
+      213: -5223265231996087375
+    second: '[LOAD] Thick Bazooka - M20_9'
+  - first:
+      213: 7856635576927597954
+    second: '[LOAD] Thick Bazooka - M20_10'
+  - first:
+      213: -7637126116174800289
+    second: '[LOAD] Thick Bazooka - M20_11'
+  - first:
+      213: 2817728396987932349
+    second: '[LOAD] Thick Bazooka - M20_12'
+  - first:
+      213: -8018812358056566271
+    second: '[LOAD] Thick Bazooka - M20_13'
+  - first:
+      213: 3007666676374834795
+    second: '[LOAD] Thick Bazooka - M20_14'
+  - first:
+      213: -4951666794106706360
+    second: '[LOAD] Thick Bazooka - M20_15'
+  - first:
+      213: 1466014805368747768
+    second: '[LOAD] Thick Bazooka - M20_16'
+  - first:
+      213: -3559470750275729988
+    second: '[LOAD] Thick Bazooka - M20_17'
+  - first:
+      213: -3850314870903670720
+    second: '[LOAD] Thick Bazooka - M20_18'
+  - first:
+      213: -7442836865939355461
+    second: '[LOAD] Thick Bazooka - M20_19'
+  - first:
+      213: -6943718389231318977
+    second: '[LOAD] Thick Bazooka - M20_20'
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[LOAD] Thick Bazooka - M20_0'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b85b4583fb060428ae0c4a76984330
+      internalID: 5762428001861256825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[LOAD] Thick Bazooka - M20_1'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf996669309b5aa4084b9afa0fd67918
+      internalID: 5541617284078950186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[LOAD] Thick Bazooka - M20_2'
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf30528a8a32d1419b782741907d2e5
+      internalID: 5992999881621075299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[LOAD] Thick Bazooka - M20_3'
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b6539d72d753b4e8884b43a188968b
+      internalID: -2761123930574526778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[LOAD] Thick Bazooka - M20_4'
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 192
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a9b71127057714291cfeae890468d6
+      internalID: -6520692148529982508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[LOAD] Thick Bazooka - M20_5'
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 192
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f841baee570cc684a92a850a3f153f0e
+      internalID: -6493566415400094397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[LOAD] Thick Bazooka - M20_6'
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 192
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c12403046aa83e4e980624df91a7f13
+      internalID: -2928475269485739149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[LOAD] Thick Bazooka - M20_7'
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 192
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743e9b80f0eb7a24997ff8be6c48040e
+      internalID: 7321906392829453173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[LOAD] Thick Bazooka - M20_8'
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 192
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01609280e20a5145a522bd688e403a7
+      internalID: 2340496631733211750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[LOAD] Thick Bazooka - M20_9'
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 192
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788af751c9236cb4280f3f5731c0744c
+      internalID: -5223265231996087375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[LOAD] Thick Bazooka - M20_10'
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 192
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5c845d63aa97248a5b645b190964cf
+      internalID: 7856635576927597954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[LOAD] Thick Bazooka - M20_11'
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 0
+        width: 192
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc22eb66ce6ff144eafc52ad84478051
+      internalID: -7637126116174800289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[LOAD] Thick Bazooka - M20_12'
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 192
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890de60584d2db94cadd6def3df47272
+      internalID: 2817728396987932349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[LOAD] Thick Bazooka - M20_13'
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 0
+        width: 192
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791fdd54ade830c459d91bdfb461777b
+      internalID: -8018812358056566271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[LOAD] Thick Bazooka - M20_14'
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 192
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffbb4b4c872cd34b897c125c1996418
+      internalID: 3007666676374834795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[LOAD] Thick Bazooka - M20_15'
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 192
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3343ba5d987fb4bb011e9dbf6a956a
+      internalID: -4951666794106706360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 131eb7e2255e0574383135f886008f29
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      '[LOAD] Thick Bazooka - M20_0': 5762428001861256825
+      '[LOAD] Thick Bazooka - M20_1': 5541617284078950186
+      '[LOAD] Thick Bazooka - M20_10': 7856635576927597954
+      '[LOAD] Thick Bazooka - M20_11': -7637126116174800289
+      '[LOAD] Thick Bazooka - M20_12': 2817728396987932349
+      '[LOAD] Thick Bazooka - M20_13': -8018812358056566271
+      '[LOAD] Thick Bazooka - M20_14': 3007666676374834795
+      '[LOAD] Thick Bazooka - M20_15': -4951666794106706360
+      '[LOAD] Thick Bazooka - M20_2': 5992999881621075299
+      '[LOAD] Thick Bazooka - M20_3': -2761123930574526778
+      '[LOAD] Thick Bazooka - M20_4': -6520692148529982508
+      '[LOAD] Thick Bazooka - M20_5': -6493566415400094397
+      '[LOAD] Thick Bazooka - M20_6': -2928475269485739149
+      '[LOAD] Thick Bazooka - M20_7': 7321906392829453173
+      '[LOAD] Thick Bazooka - M20_8': 2340496631733211750
+      '[LOAD] Thick Bazooka - M20_9': -5223265231996087375
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
